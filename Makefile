@@ -1,2 +1,2 @@
-all: gnome-shell.scss
-	sassc gnome-shell.scss gnome-shell/gnome-shell.css
+all: src/gnome-shell.scss
+	sassc src/gnome-shell.scss gnome-shell/gnome-shell.css
