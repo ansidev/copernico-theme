@@ -11,15 +11,23 @@ Download the copernico-theme and put it inside `~/.themes` directory.
 
 ## Screenshots
 
+* Roboto fonts
+* [Icons Flat Remix](https://github.com/daniruiz/flat-remix)
+* [Gamepad Wallpaper](http://charlie-henson.deviantart.com/gallery/52256739/Flat-Gamepad-Wallpapers)
+
 ### Desktop
-![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/copernico.png)
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/screenshots/copernico.png)
 
 ### Applications
-![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/applications.png)
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/screenshots/applications.png)
 
 ### PowerOff Dialog
-![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/power-off.png)
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/screenshots/power-off.png)
     
 ### Password Dialog
-![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/password.png)
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/screenshots/password.png)
 
+
+## Considerations
+- Why Copernico Theme? In honor to my dog.
+- ¿Porqué Copernico Theme? En honor a mi perro.
