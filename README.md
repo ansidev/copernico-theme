@@ -1,16 +1,25 @@
 # Copernico Theme #
+[![Version](https://img.shields.io/badge/version-3.26-green.svg)]()
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)]()
 
-**Copernico versión 3.26.2** es un tema para GNOME Shell que proporciona
-  un aspecto visual ligeramente mas agradable al que viene por
-  defecto.
+Copernico Theme is a simple gnome-shell theme with flat design (I hope).
+You are free to edit the `* .scss` files and then compile them with` make`.
 
-Tema original de GNOME y modificado por Michael Yugcha
-[@mgyugcha](https://www.twitter.com/mgyugcha), bajo los términos de la
-licencia GPL v3.
+## Installation
 
-### Descarga ###
+Download the copernico-theme and put it inside `~/.themes` directory.
 
-Puedes descargar la última versión en
-[este enlace.](https://github.com/mgyugcha/copernico-theme/archive/master.zip)
+## Screenshots
 
-### Capturas ###
+### Desktop
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/copernico.png)
+
+### Applications
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/applications.png)
+
+### PowerOff Dialog
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/power-off.png)
+    
+### Password Dialog
+![](https://gitlab.com/mgyugcha/copernico-theme/raw/master/images/password.png)
+
